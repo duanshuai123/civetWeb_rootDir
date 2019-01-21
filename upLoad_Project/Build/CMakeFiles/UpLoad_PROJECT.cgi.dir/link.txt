@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -O3 -DNDEBUG   CMakeFiles/UpLoad_PROJECT.cgi.dir/upLoad.cpp.o  -o UpLoad_PROJECT.cgi -rdynamic 

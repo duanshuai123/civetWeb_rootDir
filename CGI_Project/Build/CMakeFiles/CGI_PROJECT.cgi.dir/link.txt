@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -O3 -DNDEBUG   CMakeFiles/CGI_PROJECT.cgi.dir/cgi_project.cpp.o  -o CGI_PROJECT.cgi -rdynamic 

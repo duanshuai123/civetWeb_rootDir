@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ds/3rd/devWorkSpace/civetweb_rootDir/CGI_Project/cgi_project.cpp
+vector
+-
+stdio.h
+-
+stdlib.h
+-
+string
+-
+

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ds/3rd/devWorkSpace/civetweb_rootDir/upLoad_Project/upLoad.cpp
+stdio.h
+-
+string.h
+/home/ds/3rd/devWorkSpace/civetweb_rootDir/upLoad_Project/string.h
+stdlib.h
+/home/ds/3rd/devWorkSpace/civetweb_rootDir/upLoad_Project/stdlib.h
+dirent.h
+/home/ds/3rd/devWorkSpace/civetweb_rootDir/upLoad_Project/dirent.h
+wchar.h
+-
+assert.h
+-
+unistd.h
+-
+vector
+-
+
